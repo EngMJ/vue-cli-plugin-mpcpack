@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli-plugin-mpcpack",
+  "version": "1.0.0",
+  "description": "my pack main of pc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jmj",
+  "license": "ISC",
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "mpcpack"
+  ]
+}
